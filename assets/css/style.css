@@ -1,0 +1,113 @@
+body {
+  background-color: hsl(185, 41%, 84%);
+}
+h4,
+h5 {
+  margin: 0px;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  /* vertical-align: center; */
+  margin-top: 170px;
+}
+p {
+  color: hsl(186, 14%, 43%);
+}
+.main {
+  background-color: hsl(0, 0%, 100%);
+  margin: 80px;
+  margin-left: 300px;
+  border-radius: 13px;
+  display: flex;
+  width: 990px;
+  height: 410px;
+}
+.box1 {
+  margin: 35px;
+  width: 400px;
+  height: 350px;
+  /* background-color: aqua; */
+  /* isplay: flex; */
+  /* justify-content: space-around; */
+}
+.dollar {
+  height: 15px;
+  width: 15px;
+  padding: 4px;
+  font-size: 20px;
+  color: hsl(186, 14%, 43%);
+}
+.btn0 {
+  display: flex;
+  justify-content: space-between;
+  background-color: hsl(189, 41%, 97%);
+  padding: 3px;
+  height: 25px;
+  border-radius: 4px;
+}
+.btn {
+  height: 50px;
+  width: 120px;
+  padding: 3px;
+  border-radius: 7px;
+  background-color: hsl(183, 100%, 15%);
+  border: none;
+  color: hsl(0, 0%, 100%);
+  font-weight: bold;
+  font-size: 20px;
+}
+.btncus {
+  height: 50px;
+  width: 120px;
+  padding: 3px;
+  border-radius: 7px;
+  background-color: hsl(189, 41%, 97%);
+  border: none;
+  font-weight: bold;
+  color: hsl(186, 14%, 43%);
+}
+.box2 {
+  margin: 35px;
+  background-color: hsl(183, 100%, 15%);
+  width: 400px;
+  height: 350px;
+  border-radius: 9px;
+  color: hsl(0, 0%, 100%);
+}
+.box21 {
+  display: flex;
+  /* margin: 29px; */
+  margin-top: 39px;
+  justify-content: space-around;
+}
+.box22 {
+  display: flex;
+  margin-top: 39px;
+  justify-content: space-around;
+}
+.reset {
+  width: 290px;
+  height: 40px;
+  border: none;
+  background-color: hsl(183, 96%, 22%);
+  color: hsl(183, 100%, 15%);
+  border-radius: 4px;
+}
+.re-btn {
+  padding: 60px;
+  margin-top: 60px;
+}
+h5 {
+  color: hsl(184, 14%, 56%);
+}
+.allbtn-1 {
+  margin-top: 5px;
+}
+.amount {
+  color: rgb(22, 178, 170);
+  font-size: 35px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
